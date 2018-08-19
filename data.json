@@ -1,0 +1,47 @@
+{
+ "basics":{
+       "Name":"Neeha",
+       "Roll":"Mean-stack",
+       "mobile":"=91 9908284402",
+       "email":"mdneeha99@gmail.com"
+       },
+       "career":{
+       	   "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+       },
+       "education":[
+       	{
+       	"Degree":"B.Tech(computer science&engineering)",
+       	"institute":"vignan nirula",
+       	"data":["2014-16","85%"]
+       },
+       {
+         "Degree":"Intermediate(MPC)",
+       	"institute":"NRI Academy",
+       	"data":["2016-20","85%"]
+       },
+
+       {
+       	"Degree":"SSC",
+       	"institute":"Indian Springs",
+       	"data":["20013-14","85%"]
+       }
+],
+       "skills":[
+       	{
+       		"title":"programming languages",
+       		"content":["python","C","java","R","C++"]
+        },
+        {
+       		"title":"Data Bases",
+       		"content":["SQL","Oracle","mysql"]
+        },
+        {
+       		"title":"Web Technologies",
+       		"content":["HTML","XML","javaScript"]
+       },
+       {
+       		"title":"Operating System",
+       		"content":["Windows","Unix","Linux"]
+       }
+       ]
+ }
